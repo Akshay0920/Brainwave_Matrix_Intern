@@ -83,8 +83,11 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ## 📸 Screenshots
 
-> Add relevant UI screenshots here
+### 🔹 Screenshot 1
+![Screenshot 1](./screenshots/screenshot-1.png)
 
+### 🔹 Screenshot 2
+![Screenshot 2](./screenshots/screenshot-2.png)
 ---
 
 
