@@ -115,7 +115,7 @@ function App() {
         <p style={{ color: "white" }}>Loading contract data...</p>
       ) : (
         <>
-          <h1 style={{ color: "white" }}>You are Connected to MetaMask</h1>
+          <h1 style={{ color: "white" }}>Cast Your Vote!</h1>
           <p style={{ color: "white" }}>Account: {account}</p>
           <p style={{ color: "white" }}>Remaining Time: {timeLeft} seconds</p>
 
